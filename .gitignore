@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Downloaded public response and PDF caches; the Excel report remains tracked.
+output/raw_public/
